@@ -1,5 +1,5 @@
-#ifndef POINTER_H_INCLUDED
-#define POINTER_H_INCLUDED
+#ifndef LINKED_H_INCLUDED
+#define LINKED_H_INCLUDED
 
 #include <iostream>
 
@@ -54,4 +54,4 @@ void updateData(alamat p, infotype y);
 void printInfo(singlist l);
 void masukan(infotype x);
 void insertAfter(alamat q,alamat p);
-#endif // POINTER_H_INCLUDED
+#endif // LINKED_H_INCLUDED
